@@ -1,0 +1,344 @@
+---
+title: "PUA_scale_analysis"
+author: "Jiaqi Zhao"
+date: "2024-04-12"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r install required packages}
+install.packages("mnormt")
+install.packages("psych",repos="http://personality-project.org/r", type="source")
+install.packages("psychTools")
+install.packages("apaTables")
+install.packages("gtsummary")
+install.packages("flextable")
+install.packages("officer")
+
+```
+
+```{r}
+pacman::p_load(psych, EFA.dimensions, psychTools, readr, dplyr, apaTables, gtsummary, flextable, officer)
+
+```
+
+```{r}
+
+setwd("C:/Users/Zhaoj/Desktop/Thesis - Women's Mental Health/Thesis Data analysis") # set working directory to where the data file located
+
+data_original <- read_csv("dataset_20240402_en.csv") 
+
+# Clean the dataset: 
+# Filter rows where gender is female, 
+# exclude non-mandatory items, 
+# and exclude "NA" values
+df <- data_original %>%
+  filter(Gender == "Female") %>% 
+  select(-c(35, 37, 38, 39, 81)) %>% 
+  na.omit()
+
+# separate out the scale responses from the data,
+# including PUA scale, self-esteem scale, Chinese value survey, and gender role attitude
+PUA_scale <- df[,9:33]
+
+SE_scale <- df[,36:45]
+
+CVS_scale <- df[,46:72]
+  
+GRA_scale <- df[,73:76]
+
+# separate the two CVS subscales - predefined
+CVS_self <- CVS_scale[,1:17]
+CVS_others <- CVS_scale[,18:27]
+
+```
+
+```{r}
+#------- calculate age -------
+df_age <- df %>% 
+  mutate(age = 2024 - df[, "Year of born"])
+
+#------ demographic statistics -------
+df_demographic <-  data.frame(df$`Highest education`) %>%
+  mutate(data.frame(df$City)) %>% 
+  mutate(data.frame(df$Generation)) %>% 
+  mutate(data.frame(df_age$age))
+
+names(df_demographic) <- c("Education level", "Current city", "Generation", "Age")
+
+demographic_stats <- tbl_summary(df_demographic)
+
+demographic_flextable <- as_flex_table(demographic_stats)
+
+save_as_docx(demographic_flextable, path = "demographic_statistics.docx")
+
+# calculate the mean and the sd of age
+mean(df_demographic$Age)
+sd(df_demographic$Age)
+
+#----- statistics of PUA experience -----
+df_PUA_stats <-  data.frame(df$`Have you heard of PUA?`) %>%
+  mutate(data.frame(df$`Have you experienced PUA?`)) %>% 
+  mutate(data.frame(df$`In the past 12 months, have you experienced any of the behaviours mentioned above?`)) %>% 
+  mutate(data.frame(df$`Have you experienced any other forms of PUA not included above?`))
+
+names(df_PUA_stats) <- c("Have heard of PUA", "Have experienced PUA", "PUA experience in the past 12 months", "Have experienced other forms of PUA")
+
+PUA_stats <- tbl_summary(df_PUA_stats)
+PUA_stats_flextable <- as_flex_table(PUA_stats)
+save_as_docx(PUA_stats_flextable, path = "PUA_experience_statistics.docx")
+
+# ---- statistics of open-ended text responses ------
+
+df_text_alternative <- read.csv("alternative_terms_of_PUA_en_for_statistics.csv")
+tbl_summary(df_text_alternative)
+
+df_text_perpetrator <- read.csv("PUA_perpetrators_en_for_statistics.csv")
+tbl_summary(df_text_perpetrator)
+
+```
+
+```{r}
+#------- cronbach's alpha  ------
+alpha(PUA_scale)
+alpha_PUA = alpha(PUA_scale)
+range(alpha_PUA$item.stats$r.cor)
+
+alpha(SE_scale)
+alpha(CVS_scale)
+alpha(GRA_scale)
+
+alpha(CVS_self)
+alpha(CVS_others)
+
+#------- factor analysis of PUA items ----
+# ---- use parallel analysis to determine n factors to be used
+fa.parallel(x = PUA_scale, fa = "fa", main = "Factor Analysis Scree Plot")
+
+# elbow is at three, and package suggests three factors
+fl = fa(PUA_scale,3)
+
+fa.diagram(fl, main = "PUA Scale factor loading diagram")
+# define subscale based on factor loadings
+PUA_factors <- c(2,2,2,1,1,
+                 3,3,1,3,1,
+                 3,3,3,1,1,
+                 1,1,1,1,2,
+                 1,3,1,1,1)
+# labels come from conceptual links between item questions
+PUA_hidden <- PUA_scale[,PUA_factors==1]
+PUA_typical <- PUA_scale[,PUA_factors==3]
+PUA_destruct <- PUA_scale[,PUA_factors==2]
+
+#------- cronbach's alpha for PUA and subscales ----
+alpha(PUA_scale)
+alpha(PUA_hidden)
+alpha(PUA_typical)
+alpha(PUA_destruct)
+```
+
+
+
+```{r}
+# ----- ANOVA on education -----
+df_aov_education <- data.frame(rowMeans(PUA_scale)) %>% 
+  mutate(data.frame((rowMeans(PUA_destruct)))) %>% 
+  mutate(data.frame((rowMeans(PUA_typical)))) %>%
+  mutate(data.frame((rowMeans(PUA_hidden)))) %>%
+  mutate(data.frame((rowMeans(SE_scale)))) %>%
+  mutate(data.frame((rowMeans(CVS_scale)))) %>% 
+  mutate(data.frame((rowMeans(GRA_scale)))) %>% 
+  mutate(data.frame(df$`Highest education`))
+
+names(df_aov_education) <- c("PUA_scale", "PUA_destruct", "PUA_typical", "PUA_hidden", "SE_scale", "CVS_scale", "GRA_scale", "education")
+
+tbl <- df_aov_education %>% 
+  tbl_summary(
+    by = education,
+    missing = "no"
+  ) %>% 
+  add_p(GRA_scale ~ "aov") %>% 
+  # add a header
+  modify_header(statistic ~ "**ANOVA test on education**")
+
+tbl_flextable <- as_flex_table(tbl)
+print(tbl)
+
+# save_as_docx(tbl_flextable, path = "ANOVA_education.docx")
+
+#----- ANOVA on generation --------
+df_aov_generation <- data.frame(rowMeans(PUA_scale)) %>% 
+  mutate(data.frame((rowMeans(PUA_destruct)))) %>% 
+  mutate(data.frame((rowMeans(PUA_typical)))) %>%
+  mutate(data.frame((rowMeans(PUA_hidden)))) %>%
+  mutate(data.frame((rowMeans(SE_scale)))) %>%
+  mutate(data.frame((rowMeans(CVS_scale)))) %>% 
+  mutate(data.frame((rowMeans(GRA_scale)))) %>% 
+  mutate(data.frame(df$Generation))
+
+names(df_aov_generation) <- c("PUA_scale", "PUA_destruct", "PUA_typical", "PUA_hidden", "SE_scale", "CVS_scale", "GRA_scale", "generation")
+
+tbl <- df_aov_generation %>% 
+  tbl_summary(
+    by = generation,
+    missing = "no"
+  ) %>% 
+  add_p(GRA_scale ~ "aov") %>% 
+  # add a header
+  modify_header(statistic ~ "**ANOVA test on generation**")
+
+tbl_flextable <- as_flex_table(tbl)
+print(tbl)
+
+#----- ANOVA on city --------
+df_aov_city <- data.frame(rowMeans(PUA_scale)) %>% 
+  mutate(data.frame((rowMeans(PUA_destruct)))) %>% 
+  mutate(data.frame((rowMeans(PUA_typical)))) %>%
+  mutate(data.frame((rowMeans(PUA_hidden)))) %>%
+  mutate(data.frame((rowMeans(SE_scale)))) %>%
+  mutate(data.frame((rowMeans(CVS_scale)))) %>% 
+  mutate(data.frame((rowMeans(GRA_scale)))) %>% 
+  mutate(data.frame(df$City))
+
+names(df_aov_city) <- c("PUA_scale", "PUA_destruct", "PUA_typical", "PUA_hidden", "SE_scale", "CVS_scale", "GRA_scale", "city")
+
+tbl <- df_aov_city %>% 
+  tbl_summary(
+    by = city,
+    missing = "no"
+  ) %>% 
+  add_p(GRA_scale ~ "aov") %>% 
+  # add a header
+  modify_header(statistic ~ "**ANOVA test on city**")
+
+tbl_flextable <- as_flex_table(tbl)
+print(tbl)
+
+#----- ANOVA on PUA experience --------
+df_aov_PUA_experience <- data.frame(rowMeans(PUA_scale)) %>% 
+  mutate(data.frame((rowMeans(PUA_destruct)))) %>% 
+  mutate(data.frame((rowMeans(PUA_typical)))) %>%
+  mutate(data.frame((rowMeans(PUA_hidden)))) %>%
+  mutate(data.frame((rowMeans(SE_scale)))) %>%
+  mutate(data.frame((rowMeans(CVS_scale)))) %>% 
+  mutate(data.frame((rowMeans(GRA_scale)))) %>% 
+  mutate(data.frame(df$`Have you experienced PUA?`))
+
+names(df_aov_PUA_experience) <- c("PUA_scale", "PUA_destruct", "PUA_typical", "PUA_hidden", "SE_scale", "CVS_scale", "GRA_scale", "PUA_experience")
+
+tbl <- df_aov_PUA_experience %>% 
+  tbl_summary(
+    by = PUA_experience,
+    missing = "no"
+  ) %>% 
+  add_p(GRA_scale ~ "aov") %>% 
+  # add a header
+  modify_header(statistic ~ "**ANOVA test on PUA_experience**")
+
+tbl_flextable <- as_flex_table(tbl)
+print(tbl)
+
+tbl_flextable <- as_flex_table(tbl)
+print(tbl)
+
+#----- ANOVA on recent PUA encounter --------
+df_aov_recent_PUA <- data.frame(rowMeans(PUA_scale)) %>% 
+  mutate(data.frame((rowMeans(PUA_destruct)))) %>% 
+  mutate(data.frame((rowMeans(PUA_typical)))) %>%
+  mutate(data.frame((rowMeans(PUA_hidden)))) %>%
+  mutate(data.frame((rowMeans(SE_scale)))) %>%
+  mutate(data.frame((rowMeans(CVS_scale)))) %>% 
+  mutate(data.frame((rowMeans(GRA_scale)))) %>% 
+  mutate(data.frame(df$`In the past 12 months, have you experienced any of the behaviours mentioned above?`))
+
+names(df_aov_recent_PUA) <- c("PUA_scale", "PUA_destruct", "PUA_typical", "PUA_hidden", "SE_scale", "CVS_scale", "GRA_scale", "recent_PUA")
+
+tbl <- df_aov_recent_PUA %>% 
+  tbl_summary(
+    by = recent_PUA,
+    missing = "no"
+  ) %>% 
+  add_p(GRA_scale ~ "aov") %>% 
+  # add a header
+  modify_header(statistic ~ "**ANOVA test on recent_PUA**")
+
+tbl_flextable <- as_flex_table(tbl)
+print(tbl)
+
+tbl_flextable <- as_flex_table(tbl)
+print(tbl)
+```
+
+
+```{r}
+
+# lm of age variable with SE Scale, CVS Scale and GRA Scale
+
+df_lm_age <- data.frame(rowMeans(PUA_scale)) %>% 
+  mutate(data.frame((rowMeans(PUA_destruct)))) %>% 
+  mutate(data.frame((rowMeans(PUA_psych_control)))) %>%
+  mutate(data.frame((rowMeans(PUA_hidden)))) %>%
+  mutate(data.frame((rowMeans(SE_scale)))) %>%
+  mutate(data.frame((rowMeans(CVS_scale)))) %>% 
+  mutate(data.frame((rowMeans(CVS_self)))) %>%
+  mutate(data.frame((rowMeans(CVS_others)))) %>%
+  mutate(data.frame((rowMeans(GRA_scale)))) %>% 
+  mutate(data.frame(df_age$age))
+
+names(df_lm_age) <- c("PUA_scale", "PUA_destruct", "PUA_psych_control", "PUA_hidden", "SE_scale", "CVS_scale", "CVS_self", "CVS_others", "GRA_scale", "age")
+
+lm_age <- lm(PUA_scale ~ age, data = df_lm_age)
+lm_age <- lm(SE_scale ~ age, data = df_lm_age)
+lm_age <- lm(CVS_scale ~ age, data = df_lm_age)
+lm_age <- lm(GRA_scale ~ age, data = df_lm_age)
+summary(lm_age)
+
+# export the table of the significant lm result
+apa.aov.table(lm_age,
+              filename = "lm_GRA_age.doc")
+
+# export the table of the significant ANOVA result
+anova_generation <- aov(GRA_scale ~ generation, data = df_aov_generation)
+apa.aov.table(anova_generation,
+              filename = "avo_GRA_generation.doc")
+
+
+```
+
+
+```{r} 
+#-----cross-measure correlations ------
+# prepare the data frame for correlation matrix
+df_cor <- data.frame(rowMeans(PUA_scale)) %>% 
+  mutate(data.frame((rowMeans(PUA_destruct)))) %>% 
+  mutate(data.frame((rowMeans(PUA_typical)))) %>%
+  mutate(data.frame((rowMeans(PUA_hidden)))) %>%
+  mutate(data.frame((rowMeans(SE_scale)))) %>%
+  mutate(data.frame((rowMeans(CVS_scale)))) %>%
+  mutate(data.frame((rowMeans(CVS_self)))) %>%
+  mutate(data.frame((rowMeans(CVS_others)))) %>%
+  mutate(data.frame((rowMeans(GRA_scale))))
+
+names(df_cor) <- c("PUA_scale", "PUA_destruct", "PUA_typical", "PUA_hidden", "SE_scale", "CVS_scale", "CVS_self", "CVS_others", "GRA_scale")
+
+cor(df_cor, use = "complete.obs")
+
+apa.cor.table(df_cor,
+              filename = "correlation table.doc",
+              table.number = 1)
+
+
+```
+
+
+
+
+
+
+
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
