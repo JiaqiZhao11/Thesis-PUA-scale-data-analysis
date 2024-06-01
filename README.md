@@ -1,4 +1,5 @@
-# Master's thesis project: A Scale for Measuring PUA among Chinese Female Adults: How Can We Measure Psychological Abuse and Control?
+# Master's thesis project
+# A Scale for Measuring PUA among Chinese Female Adults: How Can We Measure Psychological Abuse and Control?
 
 This repository includes data and code used for data analysis in the Master's thesis project
 
