@@ -1,0 +1,339 @@
+﻿Consent,Gender,Year of born,Nationality,Highest education,Current city,Have you heard of PUA?,Have you experienced PUA? ,PUA 1,PUA 2,PUA 3,PUA 4,PUA 5,PUA 6,PUA 7,PUA 8,PUA 9,PUA 10,PUA 11,PUA 12,PUA 13,PUA 14,PUA 15,PUA 16,PUA 17,PUA 18,PUA 19,PUA 20,PUA 21,PUA 22,PUA 23,PUA 24,PUA 25,"In the past 12 months, have you experienced any of the behaviours mentioned above? ","If so, please specify the number of each item.",Have you experienced any other forms of PUA not included above?," If so, please give examples.","If you were asked to use a Chinese word to replace PUA, which word would you use?","If you have experienced PUA, how is the perpetrator related to you? If never, please skip this question.",Self-esteem 1,Self-esteem 2,Self-esteem 3,Self-esteem 4,Self-esteem 5,Self-esteem 6,Self-esteem 7,Self-esteem 8,Self-esteem 9,Self-esteem 10,CVS 1,CVS 2,CVS 3,CVS 4,CVS 5,CVS 6,CVS 7,CVS 8,CVS 9,CVS 10,CVS 11,CVS 12,CVS 13,CVS 14,CVS 15,CVS 16,CVS 17,CVS 18,CVS 19,CVS 20,CVS 21,CVS 22,CVS 23,CVS 24,CVS 25,CVS 26,CVS 27,GRA 1,GRA 2,GRA 3,GRA 4,Feedback or Comments,Generation,City
+Agree and Continue,Female,1967,Chinese,Bachelor's degree,Kunming,Yes,Yes,1,1,1,5,4,3,3,4,5,5,4,5,3,3,4,5,3,5,4,5,5,3,5,5,5,No,,Yes,?????????????????????????????????????????,??,???,4,4,5,5,4,4,4,5,5,5,5,5,3,3,4,5,5,5,4,4,5,5,5,5,4,5,3,3,3,4,3,3,2,2,3,4,4,1,4,4,1,,60s,mainland other
+Agree and Continue,Female,1989,Chinese,Master's degree,Beijing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1982,Chinese,Master's degree,Shanghai,Yes,Yes,3,5,4,5,5,5,5,5,5,5,5,5,5,3,3,5,5,5,4,5,5,4,4,5,5,No,,Yes,?????????????,???,??,5,5,5,5,5,5,5,5,5,5,2,1,1,1,1,1,5,3,4,3,5,5,2,3,3,4,4,2,2,4,1,1,1,1,1,1,1,1,1,1,1,,80s,mainland first tier
+Agree and Continue,Female,1983,Chinese,Master's degree,Beijing,Yes,Yes,2,1,4,5,4,3,4,1,4,5,5,5,4,4,5,5,5,5,5,1,5,1,5,5,5,Yes,6?9?11?16?19,No,,????,??,4,4,4,4,4,3,4,3,3,3,5,5,4,5,5,5,3,5,5,5,5,5,5,4,5,5,5,3,3,2,1,5,3,1,5,1,5,1,2,2,1,,80s,mainland first tier
+Agree and Continue,Female,1987,,Bachelor's degree,Shanghai,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1984,Chinese,Master's degree,Beijing,Yes,Yes,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,No,,No,,????,?,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,4,4,4,4,3,4,4,3,3,3,3,3,3,2,3,3,3,2,2,2,1,?,80s,mainland first tier
+Agree and Continue,Female,1985,Chinese,Master's degree,Beijing,Yes,No ,5,5,3,3,2,5,5,4,5,5,5,5,5,5,4,3,3,5,5,5,5,5,5,5,5,Yes,18,No,,?????,??,5,5,5,5,5,5,5,5,5,5,5,5,4,4,4,5,4,5,5,5,5,4,4,5,4,5,5,5,5,2,3,5,3,3,5,3,3,1,1,1,1,,80s,mainland first tier
+Agree and Continue,Non-binary,111,Chinese,PhD,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1986,Chinese,Master's degree,Guangzhou,Yes,Not sure,2,4,4,3,4,4,4,5,4,3,3,5,5,5,4,3,5,3,3,2,3,5,4,4,4,Yes,8?14,No,,?,????????,5,5,4,5,5,5,5,5,5,5,4,4,2,5,3,3,5,5,5,4,4,5,4,4,3,5,3,3,3,3,3,2,2,2,2,3,3,1,1,1,1,,80s,mainland first tier
+Agree and Continue,Female,1987,Chinese,Master's degree,Beijing,Yes,Yes,5,5,5,4,5,5,5,5,5,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Yes,19,No,,??,?????,4,4,4,4,4,4,4,4,4,4,3,3,3,3,3,4,4,5,4,5,5,4,4,4,4,5,5,4,4,4,3,3,3,3,3,3,3,1,1,1,1,?,80s,mainland first tier
+Agree and Continue,Female,1995,Chinese,Bachelor's degree,Beijing,Yes,Yes,2,4,1,5,5,4,5,5,5,5,4,5,5,3,5,5,5,5,5,2,5,5,5,5,5,No,,No,,????,??,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1987,Chinese,Middle school,Nanning,Yes,Yes,5,5,5,3,3,5,5,5,5,5,5,5,5,5,5,5,5,3,3,5,5,5,5,5,5,Yes,?,No,,?,,3,3,3,3,3,3,3,3,3,1,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,1,3,3,1,5,5,3,3,3,5,3,3,1,1,,80s,mainland other
+Agree and Continue,Female,1988,Chinese,Master's degree,Tianjin,Yes,Yes,1,1,1,1,1,1,1,1,3,3,1,4,4,1,1,1,1,4,4,1,1,1,4,1,2,No,,No,,????,?????,5,5,5,5,5,5,5,5,5,5,4,4,4,2,5,5,5,5,5,5,5,4,5,4,2,5,5,2,4,2,2,5,1,1,1,4,3,1,3,1,1,??????,80s,mainland other
+Agree and Continue,Female,1989,Chinese,Bachelor's degree,Jiaxing,Yes,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,No,,No,,????,??/??,5,5,5,5,5,5,5,5,5,5,1,2,1,1,1,1,4,4,4,1,5,2,4,1,4,5,3,1,1,4,4,1,1,1,1,1,3,1,1,1,1,,80s,mainland other
+Agree and Continue,Female,1993,Chinese,Master's degree,Beijing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1990,Chinese,Master's degree,France,Yes,Not sure,3,4,4,4,5,5,5,5,5,3,4,5,4,5,5,5,5,5,5,4,5,5,5,5,5,No,,No,,????,,3,4,4,3,3,4,3,5,4,3,2,2,1,1,2,2,4,4,5,2,3,3,2,4,2,5,4,2,2,2,1,3,1,1,1,1,1,1,1,1,1,,90s,overseas
+Agree and Continue,Female,1992,Chinese,PhD,Zhengzhou,Yes,No ,5,5,3,4,5,5,5,5,5,4,4,4,5,5,5,5,5,4,4,3,5,5,4,4,4,No,,No,,????,,4,4,4,4,3,4,3,4,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,5,4,5,4,4,4,2,2,3,3,2,2,2,2,2,1,1,1,,90s,mainland other
+Agree and Continue,Female,1994,Chinese,Master's degree,Beijing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1993,Chinese,Bachelor's degree,Wuxi,Yes,No ,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,No,,No,,??,,5,5,5,5,5,5,5,5,5,5,3,3,2,3,3,2,5,4,5,2,4,4,3,5,4,5,3,3,4,3,3,2,1,1,1,1,2,1,1,1,1,,90s,mainland other
+Agree and Continue,Female,1994,Chinese,Bachelor's degree,Beijing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1993,Chinese,Master's degree,Beijing,Yes,Not sure,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,5,No,,No,,????,,5,5,5,5,5,5,5,5,3,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1994,Chinese,Master's degree,Beijing,Yes,Yes,2,2,3,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Yes,3?4?8?10?16?17?18?21?23?24?25,No,,??,?????????,3,4,5,4,4,4,4,4,4,4,4,4,4,3,3,4,5,3,4,3,4,4,4,5,4,4,4,2,4,3,1,1,1,2,3,2,4,1,1,1,1,???????????? ????,90s,mainland first tier
+Agree and Continue,Female,1996,Chinese,Master's degree,Beijing,Yes,Yes,2,2,1,4,5,4,5,5,5,4,4,5,2,5,5,2,5,3,4,3,5,3,2,5,5,No,,No,,??,,5,5,5,5,5,5,5,5,5,5,5,4,2,3,4,3,4,4,3,2,3,5,4,4,3,4,4,3,2,3,4,2,3,4,2,2,2,1,1,2,1,,90s,mainland first tier
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1997,Chinese,Bachelor's degree,Changsha,Yes,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Yes,23?24,No,,????,?????,5,5,5,5,5,5,5,5,4,5,1,5,1,2,2,1,5,5,2,4,3,5,5,5,5,3,5,3,3,5,3,5,3,3,3,5,5,1,1,1,1,,90s,mainland other
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1998,Chinese,Master's degree,Beijing,Yes,No ,1,4,1,2,5,5,4,5,5,3,4,5,5,5,4,5,5,5,4,2,4,5,3,3,3,No,,No,,??,,4,4,4,4,4,4,4,4,4,4,5,4,4,4,4,5,4,5,5,4,4,4,4,4,3,4,4,2,3,3,4,5,5,3,5,3,5,3,2,2,1,,90s,mainland first tier
+Agree and Continue,Female,1999,Chinese,PhD,Dalian,Yes,No ,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,No,,No,,PUA,???,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,1,1,1,1,?,90s,mainland other
+Agree and Continue,Female,1999,Chinese,Bachelor's degree,Guangzhou,Yes,Yes,5,5,5,5,5,5,4,4,5,5,4,5,4,5,5,5,5,4,4,4,5,5,5,5,5,No,,Yes,"????????????????????????????,????????????????",????,???,4,4,4,3,3,3,3,2,2,3,5,4,1,2,4,2,5,4,4,1,4,5,5,5,2,4,3,3,2,2,1,3,1,2,1,1,1,1,1,1,1,,90s,mainland first tier
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,2000,Chinese,Bachelor's degree,Jiangxi,Yes,Yes,3,5,3,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Yes,20?23?24?25?,Yes,?????????????????????ta????????????????????????????????????????????????????“?????????????????”“???????????”?2.?????,???,?????,5,5,3,5,3,5,5,5,5,5,4,3,1,1,1,1,3,3,3,4,4,4,4,5,3,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,?????pua????????????pua???pua?????????“????????”?????????????????????????????“??????????????”,00s,mainland other
+Agree and Continue,Female,1993,Chinese,Master's degree,Beijing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1994,Chinese,Master's degree,Beijing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,2002,Chinese,Associate degree,China,Yes,Not sure,3,5,4,4,5,4,4,5,5,5,5,5,5,5,5,4,5,5,4,3,5,4,5,4,3,Yes,4?8?18,No,,??,,3,4,4,3,4,3,2,2,3,3,2,2,3,3,3,3,3,4,4,3,4,3,3,4,4,4,3,2,2,3,2,2,2,3,1,1,1,1,1,1,1,,00s,no city information
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1987,Chinese,Master's degree,Beijing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1999,Chinese,PhD,Dalian,Yes,No ,5,5,5,5,5,5,5,5,5,5,5,,5,5,5,5,5,5,5,5,5,5,5,5,5,No,,No,,??,?,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1994,Chinese,Bachelor's degree,Fuzhou,Yes,Not sure,1,1,1,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,No,,No,,??,,4,5,5,4,4,4,4,5,5,5,4,3,2,4,2,5,5,5,5,5,5,5,5,5,3,5,5,3,3,3,1,2,2,2,2,2,3,1,1,2,1,,90s,mainland other
+Agree and Continue,Female,1996,Chinese,Master's degree,Beijing,Yes,No ,1,1,1,1,1,1,2,2,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,2,1,No,,No,,??,,5,5,5,5,5,5,5,5,5,5,4,3,3,3,4,2,4,5,5,4,4,4,3,5,4,4,4,2,2,4,2,3,3,2,3,3,4,4,2,2,2,,90s,mainland first tier
+Agree and Continue,Female,1993,Chinese,Bachelor's degree,Hangzhou,Yes,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,No,,No,,??,???,5,5,5,3,5,5,5,5,5,4,2,2,1,1,3,4,5,5,4,5,5,3,4,3,2,5,4,1,2,4,4,3,2,3,1,1,1,1,1,2,1,,90s,mainland other
+Agree and Continue,Female,1994,Chinese,Bachelor's degree,Guangzhou,Yes,Not sure,1,4,4,4,5,4,4,5,5,5,5,5,5,5,5,5,4,3,3,4,4,5,5,4,4,No,,No,,????,,4,5,4,5,5,5,5,5,5,5,4,4,4,4,4,3,4,5,4,4,4,4,4,5,4,4,4,3,3,3,3,3,3,2,4,4,3,2,2,2,2,?,90s,mainland first tier
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1989,Chinese,Master's degree,Beijing,Yes,Yes,3,4,4,3,4,4,5,4,3,4,4,4,4,5,4,4,4,4,4,4,4,3,4,4,4,No,,Yes,???????????????,????,???,3,4,4,2,5,4,4,2,4,3,4,4,3,3,3,2,4,4,4,3,4,4,3,4,2,4,4,2,2,3,2,2,2,1,1,3,2,1,1,1,1,,80s,mainland first tier
+Agree and Continue,Female,1994,Chinese,Bachelor's degree,Beijing,Yes,Not sure,4,5,3,5,5,5,5,5,5,4,5,5,5,5,5,5,5,3,5,4,5,4,4,4,5,No,,No,,????,,4,5,5,5,5,5,5,5,5,5,5,4,4,4,4,5,5,5,5,4,5,5,4,4,3,5,4,3,3,2,2,2,1,1,1,1,1,1,1,1,1,????????????,90s,mainland first tier
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1981,Chinese,Bachelor's degree,Hangzhou,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1995,Chinese,Bachelor's degree,Guangzhou,Yes,No ,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,No,,No,,??,,5,5,5,5,5,5,5,5,5,5,4,3,3,3,3,3,5,4,4,4,4,5,4,5,5,5,4,3,3,3,3,3,1,1,1,1,3,1,1,1,1,,90s,mainland first tier
+Agree and Continue,Female,1994,Chinese,Master's degree,Beijing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1995,Chinese,Master's degree,Beijing,Yes,Not sure,5,5,5,3,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,5,5,4,5,5,Yes,16?19,No,,????,???????????????,5,5,5,5,5,5,5,5,5,5,4,4,2,3,2,1,5,4,5,4,4,4,4,5,1,5,5,2,4,3,1,2,2,1,3,3,4,1,1,1,1,,90s,mainland first tier
+Agree and Continue,Female,1997,Chinese,Bachelor's degree,Shijiazhuang,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1997,Chinese,Master's degree,Beijing,Yes,No ,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,No,,No,,????,,4,4,4,4,4,4,4,4,4,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,3,5,5,5,3,5,3,5,2,1,1,1,,90s,mainland first tier
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1997,Chinese,Bachelor's degree,"Växjö, Sweden",Yes,Not sure,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,No,,Yes,?????????ta???????????????????????????????????ta???????????????????????,????,,4,4,4,5,3,3,3,3,4,3,1,2,1,3,2,2,4,3,3,3,3,3,4,3,4,3,3,2,3,2,3,2,2,2,1,3,2,1,1,1,1,,90s,overseas
+Agree and Continue,Female,1995,Chinese,Master's degree,Beijing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1996,Chinese,Bachelor's degree,Quanzhou,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1994,Chinese,Bachelor's degree,Qingdao,Yes,Not sure,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,No,,Yes,????????,??,??,3,5,5,4,4,4,3,5,4,5,5,5,4,5,5,5,5,5,5,5,5,5,5,5,3,5,5,4,4,4,3,3,3,2,1,1,3,1,1,1,1,,90s,mainland other
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1983,Chinese,Bachelor's degree,Beijing,Yes,Yes,1,1,1,3,3,5,5,5,5,3,3,5,5,5,5,5,5,5,5,5,5,5,5,5,5,No,,Yes,?????????????????,??,??,3,5,5,5,5,5,5,5,5,5,5,3,3,5,5,5,3,5,5,3,5,5,3,5,3,5,5,5,3,3,1,5,5,3,5,1,5,1,1,1,1,,80s,mainland first tier
+Agree and Continue,Female,1993,Chinese,Associate degree,Hangzhou,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1994,Chinese,Master's degree,Beijing,Yes,Not sure,2,5,4,4,5,5,4,4,5,5,5,4,5,5,5,5,5,5,5,5,5,5,5,4,5,Yes,16?17,Yes,??????????????????????????????????????????,????,?????????????,4,5,5,5,5,5,5,5,4,4,4,4,4,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,4,3,3,3,3,3,3,3,4,2,2,2,1,??????????????????????????,90s,mainland first tier
+Agree and Continue,Female,1995,Chinese,Master's degree,Beijing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1987,Chinese,Primary school,hj,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1995,Chinese,Bachelor's degree,Beijing,Yes,Yes,5,5,4,5,3,5,5,5,5,5,5,5,5,5,5,5,5,4,4,5,5,5,5,5,5,Yes,4?14?18?23?24?25,No,,??,?,4,5,5,5,5,5,5,5,4,5,4,4,3,4,5,5,5,5,5,5,4,5,5,5,4,5,5,3,4,3,1,1,1,1,1,1,2,1,1,1,1,?,90s,mainland first tier
+Agree and Continue,Female,1994,Chinese,Bachelor's degree,Beijing,Yes,No ,1,1,1,3,5,5,5,5,5,3,4,5,4,2,4,4,5,4,4,1,4,5,2,4,4,No,,No,,????,,4,4,4,4,4,4,4,4,4,4,5,3,2,5,5,5,5,5,5,5,5,4,4,4,2,5,5,3,5,2,5,5,5,5,4,4,2,1,1,1,1,??????????????PUA,90s,mainland first tier
+Agree and Continue,Female,1991,Chinese,Bachelor's degree,Guangzhou,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,2000,Chinese,High school,Guangzhou,Yes,Yes,1,1,1,5,4,3,5,3,5,5,5,5,4,5,5,5,5,5,3,4,5,3,5,5,5,Yes,??45???,Yes,??????????npd?????????????????????????,????/??????,?????????????,2,5,5,5,5,5,5,5,2,2,1,1,1,4,2,1,4,5,2,1,5,5,1,1,2,5,3,1,5,2,2,1,1,2,1,1,1,1,1,1,1,,00s,mainland first tier
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1991,Chinese,Bachelor's degree,Beijing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1990,Chinese,Master's degree,Beijing,Yes,Not sure,1,1,5,5,5,1,5,5,5,5,5,5,5,5,5,5,5,5,5,1,5,5,5,5,5,No,,Yes,“????????……”,????,???,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,1,5,1,1,1,1,1,5,1,5,1,1,5,1,??????????????????????????~,90s,mainland first tier
+Agree and Continue,Female,1993,Chinese,Master's degree,Beijing,Yes,Yes,4,5,2,5,5,3,5,5,5,4,3,5,4,5,5,5,5,5,5,5,5,3,5,3,5,Yes,,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1998,Chinese,Bachelor's degree,Shanghai,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1987,Chinese,Master's degree,Beijing,Yes,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,No,,No,,??,??,3,4,4,5,4,4,4,5,4,4,3,3,3,4,4,4,5,5,5,5,5,5,5,5,3,5,5,2,3,3,2,2,2,3,4,1,2,1,1,1,1,?,80s,mainland first tier
+Agree and Continue,Female,1998,Chinese,Master's degree,Beijing,Yes,No ,1,1,5,1,1,2,1,1,1,1,1,1,1,1,1,4,1,3,1,4,1,1,4,1,1,No,,No,,????,,5,5,5,5,5,5,5,5,5,5,5,4,4,4,4,4,4,4,4,4,4,4,4,4,3,5,5,3,4,3,3,3,2,2,2,3,4,1,2,1,1,,90s,mainland first tier
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1994,Chinese,Master's degree,Beijing,Yes,No ,5,5,3,4,5,4,5,4,5,4,5,5,5,4,5,3,5,4,3,4,5,5,5,5,5,No,,No,,????,?,5,5,5,5,5,5,5,5,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1995,Chinese,Master's degree,Beijing,Yes,Yes,5,5,5,5,5,5,5,5,5,5,5,3,5,5,5,5,4,4,3,4,5,5,4,4,4,Yes,8?10?15?16?24,No,,????,?????????,4,5,5,5,5,5,5,5,5,5,4,3,3,3,4,4,5,5,4,4,4,5,4,4,4,5,4,4,4,3,3,2,2,4,2,2,3,1,1,1,1,,90s,mainland first tier
+Agree and Continue,Female,1998,Chinese,Bachelor's degree,Tokyo,Yes,Not sure,1,1,3,2,2,2,3,1,2,2,1,2,1,2,1,2,2,1,2,1,2,1,1,2,2,No,,No,,????,???????????,2,2,3,2,3,3,3,2,4,3,3,1,1,1,2,4,4,2,5,2,5,2,4,4,2,5,3,1,1,3,1,1,1,2,1,1,1,1,1,1,1,,90s,overseas
+Agree and Continue,Female,1986,Chinese,Master's degree,Beijing,Yes,Yes,1,1,2,4,5,4,4,4,5,4,4,5,5,5,5,5,5,2,5,1,5,5,5,2,5,No,,No,,??,?????,1,1,4,1,2,1,1,2,1,2,1,2,4,4,5,5,1,5,2,4,4,2,4,5,2,2,5,1,4,2,1,1,1,1,1,4,1,1,1,4,1,,80s,mainland first tier
+Agree and Continue,Female,1992,Chinese,Master's degree,Beijing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1996,Chinese,Bachelor's degree,Beijing,Yes,Yes,2,3,1,2,5,3,5,5,5,4,5,5,5,5,5,5,5,3,5,2,5,5,5,5,5,Yes,21,No,,????,??????,3,4,5,4,4,4,4,4,4,4,4,3,3,4,4,4,4,4,4,4,4,4,4,3,3,4,4,3,3,3,3,3,2,2,2,2,3,1,1,1,1,?,90s,mainland first tier
+Agree and Continue,Female,1979,Chinese,Bachelor's degree,Beijing,Yes,Yes,4,5,4,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Yes,24?25,No,,?????,,4,4,4,4,4,4,4,4,4,3,4,3,3,3,3,2,5,5,4,3,4,3,3,3,3,4,3,2,2,2,2,2,2,2,4,2,3,1,1,1,1,,70s,mainland first tier
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1995,Chinese,Master's degree,Beijing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1997,Chinese,Bachelor's degree,Neijiang,Yes,Yes,5,5,3,3,5,5,5,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,3,4,Yes,8?14?15?16,No,,????,?????,4,4,5,4,5,5,5,5,4,4,1,4,2,3,4,2,5,5,4,5,5,5,3,5,3,5,4,3,3,3,3,1,3,2,2,3,2,1,1,1,1,????????????????????????????????????,90s,mainland other
+Agree and Continue,Female,1991,Chinese,Bachelor's degree,Shanghai,Yes,Yes,1,1,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,No,,No,,??,,5,5,5,5,5,5,5,5,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,2000,Chinese,Master's degree,Aarhus,Yes,Not sure,1,1,3,3,3,1,1,1,1,1,1,1,1,1,4,1,2,1,1,1,1,1,1,1,1,No,,No,,????/????,???????????????,5,5,5,5,5,5,5,5,4,5,4,4,2,3,3,3,4,3,3,3,4,3,4,3,4,4,4,2,3,3,3,2,2,1,1,1,2,1,1,1,1,????PUA???/??????????????????????????????????????????,00s,overseas
+Agree and Continue,Female,1987,Chinese,Master's degree,Beijing,Yes,Yes,1,1,1,5,4,1,1,1,4,4,1,1,4,1,4,1,1,3,1,1,4,1,5,4,5,Yes,25,No,,????,,4,4,5,5,5,5,5,5,5,4,5,5,3,3,3,5,3,5,3,3,4,4,4,3,3,5,5,3,5,3,2,2,2,2,2,1,3,1,1,1,1,,80s,mainland first tier
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1995,Chinese,Master's degree,Henan,Yes,Yes,3,3,3,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,No,,No,,??,????,5,5,5,5,5,5,5,5,5,5,4,3,2,2,4,4,4,5,4,4,4,4,3,4,4,4,4,2,3,4,2,2,2,2,2,1,4,1,1,1,1,,90s,mainland other
+Agree and Continue,Female,2003,Chinese,Bachelor's degree,Dalian,Yes,Not sure,2,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,No,,No,,???? ????,,5,5,5,5,5,5,5,5,5,5,5,4,3,3,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,2,3,3,2,2,1,1,1,1,????????,00s,mainland other
+Agree and Continue,Female,2004,Chinese,Associate degree,Ningbo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1993,Chinese,Bachelor's degree,Qingdao,Yes,Not sure,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,3,2,1,No,,No,,??,,4,5,5,4,5,5,5,5,5,5,4,4,2,2,2,3,5,5,5,5,3,5,5,3,3,5,4,1,2,4,2,2,2,3,1,1,2,1,1,1,1,,90s,mainland other
+Agree and Continue,Female,1994,Chinese,Master's degree,Beijing,Yes,Yes,3,4,3,5,5,4,5,5,5,5,5,4,5,5,5,5,5,5,5,5,5,5,5,5,5,No,,No,,?????????,,4,4,5,5,5,4,5,5,4,4,5,5,4,4,3,4,3,5,4,4,5,5,5,4,4,5,5,3,2,2,2,2,3,1,3,1,3,1,1,1,1,,90s,mainland first tier
+Agree and Continue,Female,1996,Chinese,Bachelor's degree,Beijing,Yes,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,3,5,5,5,5,5,5,No,,Yes,?????????,??,??,3,5,5,5,5,5,4,5,5,3,1,2,1,1,1,2,5,5,5,3,5,5,3,5,3,5,3,1,2,1,1,1,1,1,1,3,2,1,1,1,1,,90s,mainland first tier
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1990,Chinese,Bachelor's degree,Nanjing,Yes,Yes,5,5,3,4,4,4,5,4,4,5,5,5,5,5,4,4,4,5,4,5,4,5,4,4,4,No,,Yes,???????,??,??,3,4,4,4,4,4,5,4,3,4,3,2,3,4,4,5,4,4,4,4,4,5,5,5,5,4,4,2,3,3,4,4,3,3,3,3,3,1,2,3,2,?,90s,mainland other
+Agree and Continue,Female,1993,Chinese,Bachelor's degree,Beijing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1995,Chinese,Master's degree,Guangzhou,Yes,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,No,,No,,??,????,5,5,5,5,5,5,5,5,5,5,5,4,4,3,3,5,5,5,5,5,5,5,5,5,4,5,5,4,4,4,2,3,2,2,2,2,2,1,1,1,1,,90s,mainland first tier
+Agree and Continue,Female,1995,Chinese,Bachelor's degree,Guangzhou,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1993,Chinese,Master's degree,Beijing,Yes,No ,3,3,3,3,3,3,3,3,3,3,3,4,4,4,4,4,4,3,3,3,3,3,3,3,3,No,,No,,??????PUA ??,,5,5,4,4,4,4,4,5,5,5,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,3,3,2,2,3,1,3,3,3,2,2,2,1,"1??????????????????????????????????
+
+2?????PUA ?????????????????????????????
+
+3??????????????????
+
+4???????????????????????????",90s,mainland first tier
+Agree and Continue,Female,1980,Chinese,Master's degree,Beijing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1996,Chinese,Master's degree,Shanghai,Yes,Yes,2,5,2,5,4,5,4,5,5,4,3,4,5,4,3,4,3,4,2,2,4,5,3,4,4,Yes,12?18?19?4?7?10?15?16 ?23?24,Yes,??????????????????????/????????????????????“?????????????????????????????????”,????,????????,4,4,4,5,5,5,5,5,5,5,2,4,2,3,5,4,5,3,5,3,5,4,4,4,3,4,4,2,3,3,2,2,2,2,2,4,2,1,1,1,1,"1.?????pua????????????????
+
+2. ?????????????????????????????????",90s,mainland first tier
+Agree and Continue,Female,1992,Chinese,Bachelor's degree,Beijing,Yes,Yes,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,Yes,,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Do no agree and Exit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1998,Chinese,Bachelor's degree,Winnipeg,Yes,Not sure,1,3,3,3,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,3,5,5,5,5,5,No,,No,,????/????,,5,5,5,5,5,5,5,5,4,5,1,2,1,2,2,2,5,5,5,4,5,5,5,3,4,5,3,1,3,3,3,2,1,1,1,1,1,1,1,1,1,,90s,overseas
+Agree and Continue,Female,1996,Chinese,Master's degree,Shenzhen,Yes,No ,1,1,1,5,4,2,4,4,3,4,5,5,5,5,5,3,5,1,3,3,5,4,4,4,4,No,,No,,????,,4,4,4,5,5,5,5,5,5,5,4,4,3,3,5,5,4,5,3,4,4,4,4,5,4,5,4,2,4,3,3,2,1,1,1,1,2,1,1,1,1,,90s,mainland first tier
+Agree and Continue,Female,1998,Chinese,Bachelor's degree,Beijing,Yes,Yes,1,2,1,3,4,4,3,3,2,2,2,3,4,5,5,5,5,5,5,1,3,2,5,3,2,Yes,9?10,Yes,???????????????,??,,4,4,4,4,4,4,4,4,4,5,4,3,3,3,3,3,4,5,5,4,5,5,5,5,4,5,4,2,3,5,1,1,2,3,2,2,4,3,1,1,1,?????????pua?????,90s,mainland first tier
+Agree and Continue,Female,2000,Chinese,Bachelor's degree,Zhuhai,Yes,Yes,2,3,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Yes,5?8?9?10?14?15? 16?18?19?21?23?24?25,No,,??????,?????,3,3,4,4,4,4,5,5,5,4,2,3,1,1,1,1,5,1,2,2,4,5,5,5,3,5,2,1,2,2,1,1,1,1,1,1,1,1,1,1,1,??????????????????????????????????????,00s,mainland other
+Agree and Continue,Female,1986,Chinese,Associate degree,Beijing,Yes,No ,1,3,2,3,3,4,4,4,4,3,4,4,4,4,4,4,4,3,3,3,3,3,3,3,3,No,,No,,????,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1998,Chinese,Bachelor's degree,Shanghai,Yes,No ,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,3,5,5,5,4,4,5,No,,No,,????,,4,4,5,5,5,2,3,4,3,4,1,5,5,2,2,3,4,4,3,5,4,5,5,5,5,5,3,2,4,2,1,2,1,2,1,1,1,2,1,1,1,,90s,mainland first tier
+Agree and Continue,Female,1996,Chinese,Master's degree,Beijing,Yes,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Yes,"4, 9, 12, 16, 17, 21(????????????????????????????)",No,,????,?????????,4,4,4,4,4,4,4,4,4,4,3,4,2,3,3,3,5,4,4,3,5,5,3,5,3,5,4,2,3,3,2,2,2,2,1,1,3,1,1,1,1,??????????????PUA???????????????????????????????????????????????PUA???????????,90s,mainland first tier
+Agree and Continue,Female,1994,Chinese,Master's degree,Beijing,Yes,Not sure,5,5,5,4,5,5,5,5,5,5,5,5,5,5,5,5,5,4,4,5,4,5,5,5,5,No,,No,,??,,4,4,5,5,5,5,5,5,5,5,5,3,1,4,4,5,4,5,5,5,5,4,4,5,4,5,5,3,4,4,3,3,3,1,5,2,4,3,3,4,1,,90s,mainland first tier
+Agree and Continue,Female,1986,Chinese,Master's degree,Beijing,Yes,No ,5,5,5,5,3,5,5,5,5,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,No,,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1994,Chinese,Master's degree,Beijing,Yes,No ,1,1,2,3,4,4,5,5,4,4,2,5,5,5,5,5,5,5,5,3,4,4,4,5,5,No,,Yes,,????,,5,5,5,5,5,5,5,5,5,5,5,3,3,3,3,4,4,3,4,3,4,3,3,4,3,5,3,1,1,1,1,1,1,1,1,1,3,1,1,1,1,,90s,mainland first tier
+Agree and Continue,Female,1997,Chinese,Master's degree,Beijing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1997,Chinese,Master's degree,Aarhus,Yes,Yes,1,1,2,3,3,4,4,4,3,3,4,5,5,4,4,4,5,5,3,4,5,5,4,4,4,No,,Yes,,????,????,5,5,5,5,5,5,5,5,5,5,4,3,3,4,4,4,4,5,3,4,5,4,4,5,3,4,4,3,3,3,2,2,2,1,1,2,3,2,1,1,1,,90s,overseas
+Agree and Continue,Male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1986,Chinese,Master's degree,"California, US",Yes,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Yes,25?24?16?10,Yes,??????,??????,?????,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1988,Chinese,Master's degree,Beijing,Yes,No ,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,No,,No,,????,,5,5,5,5,5,5,5,5,5,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,2,2,3,1,1,1,1,??,80s,mainland first tier
+Agree and Continue,Female,1990,Chinese,Bachelor's degree,jjs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1990,Chinese,Bachelor's degree,Shanghai,Yes,Not sure,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,No,,No,,????,,5,5,5,5,5,5,5,5,5,5,4,5,3,3,3,3,4,4,4,5,4,4,4,3,4,5,4,3,3,3,3,3,3,3,3,3,3,1,1,1,1,?????????????????????,90s,mainland first tier
+Agree and Continue,Female,1994,Chinese,Bachelor's degree,Changchun,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1988,Chinese,Master's degree,Beijing,Yes,Yes,1,5,5,5,5,5,5,5,5,3,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,No,,No,,????,??,5,5,5,5,5,5,5,4,4,5,1,4,2,2,5,3,4,5,5,2,5,4,5,3,3,5,5,1,1,3,2,4,1,1,1,1,1,1,1,1,1,,80s,mainland first tier
+Agree and Continue,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1991,Chinese,Bachelor's degree,Liaoning,Yes,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,3,5,5,5,5,5,5,Yes,23?17?16?10,No,,????,???,5,5,5,5,5,5,5,5,5,5,4,4,2,4,4,4,5,5,5,3,5,5,5,4,5,5,4,2,2,3,3,3,1,1,1,3,1,1,1,1,1,,90s,mainland other
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,2003,Chinese,Bachelor's degree,Liaoning,Yes,No ,3,3,4,4,5,4,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,5,5,No,,No,,???,,5,5,5,5,5,5,5,5,5,5,5,5,2,5,5,5,5,5,5,5,5,5,5,5,5,5,5,3,5,3,3,5,3,3,3,3,5,2,2,2,2,?,00s,mainland other
+Agree and Continue,Female,1992,Chinese,Bachelor's degree,Beijing,Yes,Yes,1,1,4,4,4,4,2,3,1,2,1,1,1,4,4,4,1,4,3,1,4,1,4,4,4,Yes,14?15?16?25,No,,????,?????,4,3,4,5,3,4,5,4,4,4,4,4,2,4,4,4,4,4,5,4,4,4,4,4,4,5,5,4,3,4,2,4,3,2,3,3,4,3,1,1,1,,90s,mainland first tier
+Agree and Continue,Female,1991,Chinese,Master's degree,Beijing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1993,Chinese,Master's degree,Shenzhen,Yes,No ,3,5,3,5,5,5,3,5,5,5,5,3,5,4,3,5,5,3,5,4,5,4,5,5,5,No,,No,,??,,4,4,4,4,4,3,4,4,3,4,5,4,4,5,5,5,4,5,5,5,5,5,5,5,4,5,5,3,5,3,4,5,3,2,5,2,5,1,1,1,1,,90s,mainland first tier
+Agree and Continue,Male,1986,Chinese,Bachelor's degree,Beijing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1997,Chinese,Master's degree,Beijing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,,,,Bachelor's degree,Changchun,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1997,Chinese,Bachelor's degree,Wuhan,Yes,No ,5,5,3,4,5,5,4,4,5,5,5,5,4,5,5,4,5,5,5,5,5,5,5,5,5,No,,No,,??,,4,5,5,5,5,5,5,5,5,4,5,5,4,5,5,5,5,5,4,5,5,5,5,4,4,5,5,3,4,3,3,3,2,4,4,2,4,2,2,2,1,,90s,mainland other
+Agree and Continue,Female,1999,Chinese,Master's degree,Hong Kong,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1989,,Master's degree,Harbin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1994,Chinese,Bachelor's degree,Shenyang,Yes,Not sure,1,2,3,3,5,5,5,5,3,5,5,5,3,5,5,5,5,5,5,3,5,3,5,5,5,No,,No,,????,??,5,5,5,5,5,5,5,5,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1998,Chinese,Bachelor's degree,Beijing,Yes,Not sure,4,5,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,4,5,5,5,4,5,5,Yes,"4,8,14,17,23",No,,???,???????,4,5,4,5,5,5,5,5,4,4,5,4,2,4,4,4,5,5,4,4,4,4,4,4,4,5,5,2,4,3,3,2,2,1,2,1,2,1,1,1,1,????????,90s,mainland first tier
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,2002,Chinese,Bachelor's degree,Changde,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1993,Chinese,Bachelor's degree,Beijing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1989,Chinese,PhD,Beijing,Yes,Yes,2,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,No,,No,,????,??????,4,5,5,5,5,5,5,4,4,3,1,1,1,1,1,1,4,4,5,1,5,4,4,4,4,5,4,1,1,1,3,3,1,1,1,1,1,1,1,1,1,,80s,mainland first tier
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1998,Chinese,Bachelor's degree,Beijing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1996,Chinese,Master's degree,Beijing,Yes,Yes,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,No,,No,,??,,4,4,5,4,4,4,4,4,4,4,4,3,3,3,3,4,4,4,4,4,4,5,4,4,3,5,5,4,4,4,3,4,2,2,4,2,3,1,1,3,1,,90s,mainland first tier
+Agree and Continue,Female,1992,Chinese,Master's degree,Beijing,Yes,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,No,,No,,????,,5,5,5,5,5,5,5,5,5,5,5,3,4,3,4,4,5,5,4,3,4,5,4,4,4,5,4,3,3,3,3,3,3,2,2,2,3,1,3,3,1,,90s,mainland first tier
+Agree and Continue,Female,1989,Chinese,Master's degree,Beijing,Yes,Not sure,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,No,,No,,????????,,5,5,5,5,5,5,5,5,5,5,4,5,3,3,3,3,5,5,5,3,3,5,3,5,3,5,5,3,4,4,3,3,3,3,3,3,3,1,1,1,1,???????????????????????????“?”“??“???????????????????????????????????????????????,80s,mainland first tier
+Agree and Continue,Female,1998,Chinese,Bachelor's degree,Chongqing,Yes,Yes,2,5,3,4,5,5,5,5,5,4,5,5,4,5,5,5,5,5,5,5,5,5,5,5,5,No,,No,,????,??????,4,5,5,5,3,4,5,4,5,5,4,2,1,4,2,1,3,4,4,3,5,3,3,5,3,4,4,1,4,2,1,5,1,4,2,5,1,1,1,2,1,?,90s,mainland other
+Agree and Continue,Female,2005,Chinese,Bachelor's degree,Zhengzhou,Yes,Not sure,1,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,No,,No,,????,?,5,5,5,5,5,5,5,5,5,5,3,4,3,3,3,3,5,5,4,4,5,5,5,5,4,5,4,3,5,3,2,3,3,3,1,1,3,1,1,1,1,,00s,mainland other
+Agree and Continue,Female,1987,Chinese,Master's degree,Beijing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1234,Chinese,Bachelor's degree,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1988,,Bachelor's degree,Beijing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1991,Chinese,Bachelor's degree,Nanjing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1989,Chinese,Master's degree,Guangzhou,Yes,No ,4,5,5,5,5,5,5,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,4,5,No,,No,,??????????,,3,3,4,3,3,3,4,4,3,3,2,3,2,3,4,4,5,3,4,3,4,4,4,3,4,4,4,1,1,2,1,1,1,1,1,1,1,1,1,1,1,,80s,mainland first tier
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,2004,Chinese,High school,Harbin,Yes,Yes,1,5,1,5,5,1,5,5,5,1,5,5,5,5,5,5,5,5,5,1,5,5,5,5,5,No,,Yes,????????????????????????????,????,???,5,5,5,5,5,5,5,5,3,5,5,4,4,4,4,4,4,4,4,3,4,2,4,4,2,5,5,3,2,2,1,4,4,2,5,2,3,1,1,2,1,?,00s,mainland other
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1991,Chinese,Bachelor's degree,Beijing,Yes,Yes,4,5,4,4,4,5,4,4,4,4,5,5,5,5,4,4,5,5,3,5,4,5,4,3,3,Yes,"4,7,10,21",No,,???????,,4,4,5,5,5,5,5,5,5,5,4,4,4,4,4,4,4,4,4,3,4,4,3,5,2,4,4,4,3,4,2,3,2,4,3,2,3,3,3,3,1,,90s,mainland first tier
+Agree and Continue,Female,1991,Chinese,Bachelor's degree,Beijing,Yes,Yes,2,2,3,4,5,5,4,5,5,2,2,5,5,5,5,5,5,2,5,4,5,5,5,5,5,No,,No,,??,,3,2,4,4,3,3,3,3,3,3,4,3,2,2,3,4,4,4,3,4,4,5,4,5,4,5,4,1,4,2,1,2,1,1,2,3,1,2,2,3,1,,90s,mainland first tier
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,2002,Chinese,Bachelor's degree,Liaoning,Yes,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Yes,??????????????????,Yes,,??,?????,4,3,4,4,4,4,4,3,3,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,4,3,3,4,3,3,5,4,4,1,1,3,1,????????? ??????????,00s,mainland other
+Agree and Continue,Female,2001,Chinese,Bachelor's degree,Beijing,Yes,Yes,5,5,5,3,5,3,5,5,5,3,5,5,3,5,5,5,5,5,5,3,5,5,1,3,3,Yes,???163cm??105?  ?????????????? ???????????????????“??” “???”?????????????????????????????“????????????????????????” ?????????????????????,No,,??,,4,5,5,5,4,5,5,5,3,5,5,5,3,5,5,5,5,5,5,5,5,5,2,5,3,5,5,3,5,3,2,5,1,5,1,1,1,1,1,5,1,,00s,mainland first tier
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1999,Chinese,Master's degree,Hong Kong,Yes,Yes,1,2,2,4,4,5,5,5,5,5,5,5,2,4,5,5,5,5,4,3,5,3,5,4,4,No,,No,,??,??,4,4,5,5,5,5,5,4,5,5,3,3,2,3,3,2,4,4,4,4,5,4,4,4,3,4,4,2,4,2,1,1,1,1,1,1,1,1,1,1,1,?,90s,Hong Kong
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1993,Chinese,Master's degree,Beijing,Yes,Not sure,5,5,4,4,5,5,5,5,5,4,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,Yes,4?24?25,No,,??????,???????,4,5,5,5,5,5,5,5,5,5,3,5,2,2,3,4,5,5,5,4,4,5,4,5,4,5,5,3,4,2,3,1,1,3,4,3,3,1,2,2,1,?????????,90s,mainland first tier
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1995,Chinese,PhD,Xian,Yes,Yes,3,3,4,5,5,5,5,5,5,3,5,5,5,5,5,4,5,5,5,5,5,5,4,5,5,No,,No,,????,??,2,4,4,4,4,4,2,1,2,2,3,3,3,4,5,4,5,5,5,3,4,5,5,3,3,5,5,2,2,3,3,2,1,4,1,3,3,1,1,1,1,"1.??????????????????????????????????????
+
+2.????????????????“????”?????????????????????????????
+
+3.?????????????????“????”?",90s,mainland other
+Agree and Continue,Female,1990,Chinese,Bachelor's degree,Guangzhou,Yes,Not sure,5,5,5,5,5,5,5,5,5,5,5,5,5,4,4,3,4,2,3,2,4,4,3,3,4,No,,Yes,?????????21?24?25???,??,????,3,3,3,4,4,4,4,4,4,4,4,4,3,3,3,3,5,5,5,5,5,5,5,5,4,5,5,3,4,2,1,5,2,2,1,1,3,1,1,1,1,?,90s,mainland first tier
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1994,Chinese,Bachelor's degree,Beijing,Yes,No ,1,1,2,2,4,5,5,5,5,5,5,5,4,2,3,5,5,4,5,3,5,5,5,5,5,No,,No,,??????????????,,5,5,5,5,5,5,5,5,5,5,5,4,4,4,3,4,5,5,5,4,5,5,4,5,4,5,5,3,4,3,2,2,1,1,1,1,2,1,1,4,1,,90s,mainland first tier
+Agree and Continue,Female,1994,Chinese,Master's degree,Wuhan,Yes,Yes,1,1,1,5,1,1,3,5,2,4,4,2,1,5,4,5,3,5,4,2,5,1,5,5,5,Yes,2?3,No,,??????,,5,5,5,5,5,5,5,5,4,4,4,4,3,3,4,4,5,4,4,4,4,4,4,4,4,4,3,3,5,1,1,1,1,1,1,1,1,1,1,1,1,,90s,mainland other
+Agree and Continue,Female,,Chinese,Bachelor's degree,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1993,Chinese,Master's degree,Beijing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1997,Chinese,Master's degree,Beijing,Yes,Yes,1,1,2,4,4,1,5,5,5,4,2,1,1,5,5,5,5,5,5,1,2,1,5,3,5,Yes,"16,18",No,,??,??,1,1,1,1,1,1,1,1,1,2,3,3,4,3,3,2,5,5,3,2,5,5,5,5,4,4,2,2,3,4,2,3,3,2,2,1,2,1,1,1,1,?,90s,mainland first tier
+Agree and Continue,Male,1990,Chinese,Master's degree,Beijing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1993,Chinese,Master's degree,Lawrence,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1994,Chinese,Master's degree,Shenyang,Yes,Yes,3,3,3,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,No,,No,,????,,5,5,5,5,5,5,5,5,5,5,4,3,2,5,5,4,5,4,2,4,4,4,4,4,5,5,4,2,4,1,2,2,4,2,2,4,4,1,1,1,1,,90s,mainland other
+Agree and Continue,Female,2003,Chinese,Bachelor's degree,Huizhou,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1995,Chinese,Master's degree,Xian,Yes,Yes,3,3,3,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,No,,Yes,,????,,5,5,5,5,5,5,5,5,5,5,2,2,1,1,5,1,5,3,5,1,5,3,4,5,1,5,5,1,1,3,1,1,1,1,1,1,1,1,1,1,1,??????PUA???,90s,mainland other
+Agree and Continue,Female,1993,Chinese,Master's degree,Shijiazhuang,Yes,Yes,5,3,5,5,5,1,2,5,5,5,2,3,1,5,5,5,5,5,5,1,5,1,5,5,5,Yes,????????????,Yes,??????????????,????????,???????PUA????????????? ????????PUA???    ????????????????,3,5,5,5,5,5,5,5,5,5,5,5,5,1,2,5,5,5,2,2,2,5,5,5,5,5,5,5,5,5,1,5,5,1,2,5,5,5,1,1,1,,90s,mainland other
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1988,Chinese,Associate degree,Shanghai,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1994,Chinese,Bachelor's degree,Beijing,Yes,No ,2,5,2,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,3,5,5,5,5,5,No,,No,,????,,5,5,4,4,4,4,4,5,5,5,3,3,2,4,3,2,3,4,3,3,2,2,4,4,3,3,4,2,3,4,3,2,2,5,2,1,1,3,2,2,2,,90s,mainland first tier
+Agree and Continue,Female,2000,Chinese,Bachelor's degree,Shenyang,Yes,No ,2,4,2,4,4,5,4,5,4,4,5,5,5,5,4,4,5,4,3,4,5,5,5,5,3,Yes,???,No,,????,,5,5,4,4,5,5,5,5,1,5,5,3,2,4,2,4,5,5,4,4,4,4,4,4,4,4,4,4,4,4,3,4,4,3,3,3,4,1,1,1,1,,00s,mainland other
+Agree and Continue,Female,1998,Chinese,Master's degree,Guangzhou,Yes,No ,2,5,2,5,5,5,3,5,5,5,5,5,5,5,5,5,5,5,4,4,5,5,2,4,4,No,,No,,????,,5,5,5,5,5,5,5,5,4,5,1,2,2,3,4,4,5,5,5,4,3,5,2,5,2,5,4,1,1,4,2,1,1,1,1,2,1,1,1,1,1,,90s,mainland first tier
+Agree and Continue,Female,1994,Chinese,Bachelor's degree,Beijing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1989,Chinese,Master's degree,"Niigata, Japan",Yes,Not sure,1,1,1,5,5,4,5,4,4,4,4,5,4,4,4,4,5,3,5,3,5,5,3,4,4,Yes,25,No,,????,,4,4,5,5,5,5,5,5,5,5,5,5,4,4,4,5,5,5,5,4,4,5,4,4,4,5,4,4,3,3,1,2,2,2,4,3,4,2,1,2,1,,80s,overseas
+Agree and Continue,Female,1996,Chinese,Bachelor's degree,Shanghai,Yes,Yes,1,5,2,5,5,5,5,5,2,2,2,5,2,5,5,5,5,5,5,2,5,2,5,5,5,Yes,21,No,,????,??,5,5,5,5,5,5,5,5,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1989,Chinese,Master's degree,Zibo,Yes,No ,5,5,3,3,5,5,5,5,5,5,5,5,5,5,5,5,5,3,5,3,5,5,5,5,5,No,,No,,??,,5,5,5,5,5,5,5,5,5,5,5,5,3,3,5,5,5,5,5,5,5,5,5,5,5,5,5,3,5,3,1,3,3,3,5,1,5,1,1,1,1,,80s,mainland other
+Agree and Continue,Male,1989,Chinese,Bachelor's degree,Guangdong,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,2001,Chinese,Associate degree,Ningbo,Yes,Not sure,4,4,4,4,3,5,4,5,5,5,5,5,4,4,5,4,5,5,4,4,5,5,5,5,5,No,,No,,????,"????????????????????????????????????????????????????????????????????,???????????????????????????????????,?????????????????????????????,???????????????,?????????????????,???????????????????????????????????????????????????????????????????????????????????????????????????????????????",4,4,5,4,4,5,5,4,4,3,3,2,1,3,1,1,4,4,3,5,4,5,5,5,2,4,4,1,2,3,2,1,1,1,1,1,3,1,1,1,1,,00s,mainland other
+Agree and Continue,Female,1993,Chinese,Master's degree,"Auburn Hills, America",Yes,Not sure,5,5,5,5,5,5,4,5,5,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,No,,No,,??,,5,5,5,5,5,5,5,5,5,5,5,4,3,3,3,3,5,5,5,4,5,5,5,5,3,5,5,3,4,3,3,2,2,2,3,3,2,1,1,2,1,,90s,overseas
+Agree and Continue,Female,1994,Chinese,Bachelor's degree,Beijing,Yes,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,1,5,5,No,,Yes,??????????? ???????????????? ???,??,??,5,5,5,5,5,5,5,5,5,5,1,3,1,1,5,1,5,2,5,1,5,2,4,3,3,3,5,1,1,5,1,1,1,1,1,1,1,1,1,1,1,,90s,mainland first tier
+Agree and Continue,Female,1998,Chinese,Master's degree,Beijing,Yes,Yes,1,5,2,2,5,5,5,5,5,5,5,5,2,5,5,5,5,5,5,5,5,5,5,5,5,Yes,25-Jan,Yes,,??,,2,2,2,2,2,2,2,2,2,2,5,5,3,3,3,3,5,5,5,5,5,5,5,5,3,5,5,3,3,3,3,3,3,3,3,3,3,1,1,1,1,,90s,mainland first tier
+Agree and Continue,Female,1988,Chinese,Bachelor's degree,Gansu,Yes,Yes,1,4,1,5,1,1,5,5,1,5,1,1,5,1,1,1,1,5,1,4,1,1,5,1,4,Yes,1?3?5,No,,??,,5,5,5,5,5,5,5,5,5,5,1,1,1,1,1,1,4,1,4,1,5,4,5,4,1,5,4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,80s,mainland other
+Agree and Continue,Female,1990,Chinese,Master's degree,Beijing,Yes,Yes,4,5,3,4,5,5,4,5,5,5,5,5,5,5,5,5,5,5,5,3,5,5,4,3,3,No,,No,,??,????????,5,5,5,5,5,5,5,5,5,5,4,2,3,3,5,3,4,4,4,3,3,3,3,5,4,4,3,2,3,3,1,1,1,1,1,3,1,1,1,1,1,????????????????,90s,mainland first tier
+Agree and Continue,Female,1988,Chinese,Master's degree,Beijing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,2003,Chinese,Associate degree,Shenyang,Yes,No ,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,No,,No,,??,,5,5,5,5,5,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,4,4,4,4,4,4,4,4,1,1,1,1,?,00s,mainland other
+Agree and Continue,Female,1992,Chinese,Master's degree,Hong Kong,Yes,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,5,4,4,3,5,5,5,3,3,No,,Yes,??????????,????,???,4,4,4,4,4,4,4,5,4,4,2,3,4,4,4,4,2,5,4,3,5,2,4,2,3,5,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,90s,Hong Kong
+Agree and Continue,Female,1996,Chinese,Master's degree,Michigan,Yes,Yes,1,1,1,5,4,3,4,5,3,5,2,4,1,5,5,4,4,5,2,1,2,1,5,5,5,No,,No,??????????????????????????????????,????,??????????????????????????,4,4,4,4,4,4,4,4,4,4,2,4,2,3,5,5,5,4,5,5,5,5,4,5,4,5,3,3,3,3,2,2,2,2,1,1,1,1,1,1,1,??????????“??” ?“??”????????????????????????????????????? ??????pua?????????????????????????????? ??????“??” ?“??”???????????????pua??????????????,90s,overseas
+Agree and Continue,Male,1997,Chinese,Master's degree,Beijing,Yes,Yes,1,2,3,4,4,5,5,5,5,3,5,5,5,5,5,5,5,5,5,1,5,4,3,3,5,No,,Yes,???????????????????????????????“???”??????????????????????,????,??????????????????,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1991,Chinese,Master's degree,Beijing,Yes,Yes,1,1,1,1,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,No,,No,,????,???,4,4,4,5,5,4,5,5,5,4,4,3,2,2,4,3,4,4,4,2,4,2,2,2,2,4,2,2,2,3,2,2,2,2,2,2,2,1,1,1,1,,90s,mainland first tier
+Agree and Continue,Female,1993,Chinese,Master's degree,Beijing,Yes,Yes,5,5,4,4,5,5,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,No,,No,,????,,5,5,4,3,3,3,3,3,3,3,2,3,4,4,4,4,4,5,5,3,3,3,3,3,5,5,5,2,1,3,5,5,3,5,2,2,2,1,1,3,1,,90s,mainland first tier
+Agree and Continue,Female,1984,Chinese,Master's degree,Kunming,Yes,Yes,1,5,1,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,No,,No,,????,??,4,5,4,5,3,4,5,5,3,4,4,4,3,4,4,4,5,4,4,2,5,4,4,5,2,5,4,2,3,4,1,1,1,4,1,3,1,1,1,1,1,,80s,mainland other
+Agree and Continue,Female,1993,Chinese,Master's degree,Quzhou,Yes,No ,1,1,1,1,3,1,4,5,5,5,2,5,5,5,5,5,5,5,5,3,5,5,5,5,5,No,,No,,????,,4,4,4,4,4,4,4,4,5,5,4,4,3,4,4,3,3,3,3,4,4,4,4,4,3,4,4,4,3,3,2,3,3,2,3,3,3,1,2,1,1,,90s,mainland other
+Agree and Continue,Female,1995,Chinese,Bachelor's degree,Fuzhou,Yes,Not sure,5,5,5,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,No,,No,,????,,4,4,4,5,4,4,5,5,5,4,4,4,3,2,4,3,4,4,4,3,5,5,5,4,3,5,5,2,2,3,2,2,2,1,3,2,2,1,1,1,1,,90s,mainland other
+Agree and Continue,Female,1993,Chinese,Master's degree,Beijing,Yes,Yes,3,4,3,3,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,No,,No,,??????,,5,5,5,5,5,5,5,5,5,5,2,2,1,1,2,2,3,3,4,2,3,2,2,3,2,3,3,2,2,2,1,1,1,1,1,1,1,1,1,1,1,,90s,mainland first tier
+Agree and Continue,Female,1991,Chinese,PhD,Shanghai,Yes,Yes,3,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,5,5,5,5,5,5,5,3,5,Yes,18,No,,????,??,4,4,4,4,4,4,5,5,5,5,4,4,3,4,4,4,5,4,5,4,4,4,4,5,4,5,4,3,4,3,3,4,4,3,4,3,4,1,1,1,1,?,90s,mainland first tier
+Agree and Continue,Female,1989,Chinese,Bachelor's degree,Binzhou,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1964,Chinese,PhD,Wuhan,Yes,Yes,2,3,3,5,4,2,1,2,3,5,4,1,2,4,4,2,2,4,2,3,2,2,5,3,4,Yes,4??5??10??11??14??18??23?,No,,???????,??,4,4,4,4,4,3,3,4,3,3,4,5,5,4,5,3,5,3,5,4,4,4,2,3,3,5,3,4,3,3,3,4,4,5,5,3,4,4,4,5,2,,60s,mainland other
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1999,Chinese,Master's degree,Hong Kong,Yes,Not sure,2,4,3,5,5,3,5,5,5,4,5,5,4,5,5,5,5,4,5,3,5,5,5,5,5,Yes,"4,5,17,18,21,23,24,25",Yes,???????????????????????????????????????????????????????????“????????????????”??????????private??????????intimacy…,???????????,????????????????????patriarchy pua??????????pua??????????????????,5,5,5,5,5,4,5,5,5,3,1,3,2,3,3,3,5,3,4,5,5,4,4,3,5,5,3,2,3,2,1,1,1,1,1,1,1,1,1,1,1,,90s,Hong Kong
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1998,Chinese,Bachelor's degree,"Berlin, Germany ",Yes,Yes,1,1,5,5,3,1,3,4,3,5,2,1,1,4,5,5,5,2,5,1,4,1,5,3,5,Yes,4.14.15.16.23.25,No,,????/??,??,4,3,4,4,3,3,4,4,3,4,3,4,2,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,1,4,2,2,1,1,1,2,1,1,1,1,1,,90s,overseas
+Agree and Continue,Female,1992,Chinese,Bachelor's degree,Nanjing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1990,Chinese,Bachelor's degree,Nanjing,Yes,Yes,3,2,3,4,2,3,3,3,1,3,2,2,2,3,3,3,3,4,3,1,1,1,3,2,3,No,,No,,????,?????,4,4,4,4,4,4,4,4,4,4,2,2,2,2,2,4,4,4,5,2,5,4,3,4,2,5,2,2,2,3,2,2,1,2,1,1,1,1,1,1,1,??????????,90s,mainland other
+Agree and Continue,Female,1996,Chinese,Bachelor's degree,Shenyang,Yes,No ,2,4,3,4,4,5,5,5,5,3,4,5,5,5,5,2,4,2,1,3,5,5,5,3,2,No,,No,,??,,5,5,5,5,5,5,5,5,5,5,4,3,2,4,4,5,5,5,5,2,5,3,2,2,4,5,5,1,3,3,2,1,1,1,1,3,1,1,1,1,1,,90s,mainland other
+Agree and Continue,Female,2003,Chinese,Bachelor's degree,Liaoning,Yes,No ,5,5,3,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,No,,No,,??,,4,4,4,5,5,4,5,5,5,5,5,4,3,5,5,4,4,5,4,4,5,4,4,4,4,5,5,4,4,4,3,4,3,4,3,3,3,1,1,1,1,?,00s,mainland other
+Agree and Continue,Female,2000,Chinese,Bachelor's degree,Zhuhai,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1982,Chinese,Master's degree,Shanghai,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1995,Chinese,Associate degree,Shenyang,Yes,Not sure,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,No,,No,,????,,4,4,4,4,4,4,4,5,4,4,5,4,2,2,4,4,5,5,5,2,4,5,5,4,3,4,4,1,2,4,4,3,1,4,1,1,3,1,1,1,1,,90s,mainland other
+Agree and Continue,Female,1995,Chinese,Master's degree,Shanghai,Yes,Not sure,2,4,3,4,3,4,5,5,5,5,5,5,5,4,5,5,5,5,5,5,5,5,5,5,5,No,,No,,????,,4,3,4,4,3,4,4,3,3,3,3,3,2,3,4,3,5,5,5,5,3,5,5,5,3,5,3,3,5,2,2,1,1,1,1,1,1,1,1,3,1,,90s,mainland first tier
+Agree and Continue,Female,1981,Chinese,Master's degree,Beijing,Yes,Yes,5,5,4,4,4,5,4,4,5,5,5,4,5,4,5,5,4,4,3,5,5,5,4,4,5,No,,No,???????????????,?????,??,5,5,5,5,5,5,5,5,5,5,5,4,4,3,3,3,4,5,5,4,4,5,5,4,4,5,4,4,5,3,1,5,3,1,5,3,5,1,2,1,1,???????????????????????pua??????????????????,80s,mainland first tier
+Agree and Continue,Female,1991,Chinese,Bachelor's degree,Beijing,Yes,Yes,3,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Yes,8?16?18?23?24,No,,????,??,4,5,5,5,5,5,5,5,5,5,4,3,2,2,1,1,3,5,5,1,5,2,4,4,3,5,4,1,1,3,1,1,1,4,2,2,2,1,1,1,1,,90s,mainland first tier
+Agree and Continue,Female,1993,Chinese,Master's degree,"Troy, MI, US",Yes,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,No,,No,"6, 16, 23",??????,,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,3,3,5,5,3,5,3,5,3,1,1,1,,90s,overseas
+Agree and Continue,Female,1991,Chinese,Bachelor's degree,Beijing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1992,Chinese,Master's degree,Beijing,Yes,Yes,1,1,1,1,1,1,3,3,1,5,5,3,1,1,1,5,5,5,5,2,5,1,5,5,5,Yes,23?24?25,No,,???,???,5,5,5,5,5,5,5,5,5,5,5,3,4,4,5,5,5,5,5,3,5,4,4,4,4,5,5,5,4,3,1,5,5,5,5,3,5,1,1,1,1,?,90s,mainland first tier
+Agree and Continue,Female,1992,Chinese,Master's degree,Beijing,Yes,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,No,,Yes,,????,,5,5,5,5,5,5,5,5,5,5,4,4,2,2,2,2,5,5,3,3,4,5,5,4,4,5,5,3,3,2,2,2,2,4,4,1,2,2,3,2,1,,90s,mainland first tier
+Agree and Continue,Female,2003,Chinese,Bachelor's degree,Shenyang,Yes,Not sure,2,5,2,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,5,5,No,,No,,????,,4,4,4,4,4,5,4,3,3,4,5,5,3,5,5,5,4,5,5,5,5,5,5,5,3,5,5,4,4,4,5,5,5,1,5,5,5,2,1,1,1,,00s,mainland other
+Agree and Continue,Female,1991,Chinese,Master's degree,Guangzhou,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1990,Chinese,Master's degree,Beijing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1990,Chinese,Master's degree,Beijing,Yes,No ,1,1,4,4,4,4,4,4,4,4,4,4,1,4,4,4,4,4,4,4,4,4,4,4,4,No,,No,,????,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1993,Chinese,Master's degree,Beijing,Yes,Yes,2,2,2,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,2,5,5,5,5,5,Yes,24,Yes,,??,???,5,5,5,5,5,5,5,5,5,5,5,4,3,3,4,4,5,5,5,5,5,5,5,5,4,5,5,3,3,3,3,1,1,1,1,1,1,1,1,1,1,,90s,mainland first tier
+Agree and Continue,Female,2002,Chinese,Bachelor's degree,Hefei,Yes,No ,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,No,,No,,??,,5,5,5,5,5,1,5,5,5,5,1,1,1,4,4,2,4,5,5,4,5,5,4,4,2,5,4,2,2,2,1,1,1,1,1,1,1,1,1,1,1,???????????????????????????????????,00s,mainland other
+Agree and Continue,Female,1985,Chinese,Master's degree,Beijing,Yes,No ,5,5,5,5,5,5,5,5,5,1,5,5,5,5,5,5,5,5,5,5,5,5,5,3,5,No,,No,,??,,5,5,5,5,5,5,5,5,5,5,4,4,4,4,2,2,5,5,5,2,5,5,5,5,2,5,5,3,5,1,1,1,1,1,1,1,1,1,1,1,1,,80s,mainland first tier
+Agree and Continue,Female,1993,Chinese,Master's degree,Beijing,Yes,Yes,1,2,2,3,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,1,5,5,2,5,5,No,,No,,????,,5,5,5,5,5,5,5,5,5,5,4,3,1,2,3,3,4,4,4,4,4,4,4,4,2,4,4,1,3,3,2,2,2,3,1,1,3,1,1,1,1,???????????PUA?,90s,mainland first tier
+Do no agree and Exit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1991,Chinese,Master's degree,Beijing,Yes,Yes,1,2,3,3,3,1,1,1,1,1,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,No,,No,,????,,5,4,4,4,4,5,4,4,5,5,5,3,3,3,3,4,5,5,5,4,3,4,3,5,3,5,3,3,5,3,3,3,3,1,3,3,3,1,3,3,1,,90s,mainland first tier
+Agree and Continue,Female,2003,Chinese,Bachelor's degree,Fushun,Yes,No ,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,No,,No,,??,??,2,2,1,1,1,1,2,1,1,1,1,5,5,1,1,1,1,1,1,1,1,1,3,3,1,2,2,5,1,1,3,3,3,1,1,1,1,1,1,1,1,?,00s,mainland other
+Agree and Continue,Female,1995,Chinese,Master's degree,Beijing,Yes,Yes,1,1,5,5,5,1,1,4,1,5,5,5,1,4,5,5,5,5,5,1,3,1,5,5,5,No,,No,,????,,5,5,5,5,5,5,5,5,5,5,5,5,2,2,4,5,5,5,5,5,5,5,5,5,5,5,5,4,5,1,1,5,1,4,1,3,4,1,1,1,1,,90s,mainland first tier
+Agree and Continue,Female,1995,Chinese,Bachelor's degree,Shenyang,Yes,Yes,5,5,5,5,5,5,5,5,3,4,5,5,5,5,5,5,5,5,3,3,5,5,5,5,5,Yes,18?23,No,,????,??,5,5,5,5,3,5,5,5,5,5,5,5,1,3,5,5,5,5,5,4,5,5,4,3,5,5,5,1,5,3,1,3,3,2,2,1,1,3,1,1,1,????????????????????????,90s,mainland other
+Agree and Continue,Female,1998,Chinese,Bachelor's degree,Beijing,Yes,Yes,1,1,5,5,5,1,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,No,,Yes,,????,??,5,5,5,5,5,5,5,5,3,3,3,3,1,3,3,3,5,5,5,5,5,5,5,5,5,5,5,1,5,5,1,1,1,1,2,4,2,1,1,1,1,,90s,mainland first tier
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1999,Chinese,Master's degree,Shanghai,Yes,No ,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,No,,No,,????,??,4,4,5,4,5,5,5,5,3,4,1,3,2,3,2,4,5,5,4,5,4,3,4,5,3,5,4,3,4,4,3,3,2,2,1,4,1,1,1,1,1,??????????????????????????????????,90s,mainland first tier
+Agree and Continue,Female,2002,Chinese,Bachelor's degree,Taiyuan,Yes,No ,5,5,3,4,4,5,5,4,5,5,4,5,5,5,5,5,4,3,4,4,5,5,3,5,3,No,,No,,????,,4,5,4,4,4,4,4,5,4,5,5,4,4,3,5,5,5,5,4,5,4,5,5,5,5,5,5,4,5,3,3,4,3,5,5,4,5,1,3,1,1,,00s,mainland other
+Agree and Continue,Female,1992,Chinese,Bachelor's degree,Xinjiang,Yes,Not sure,1,1,1,2,1,1,1,1,2,2,1,2,1,1,1,1,1,3,1,1,1,1,3,1,2,Yes,4?9?10?12?18?23?25,No,,??,???,2,2,2,2,2,2,2,2,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,2004,Chinese,Bachelor's degree,Zhengzhou,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1992,Chinese,Associate degree,Nanchang,Yes,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Yes,15?16?17?18?19?20?21?,Yes,21,??,???????,3,3,3,3,3,3,5,5,5,3,3,3,3,3,3,3,4,4,4,4,5,5,4,4,4,5,4,3,3,3,3,3,3,3,3,3,3,3,1,1,1,?????Pua?????,90s,mainland other
+Agree and Continue,Non-binary,1995,Chinese,Master's degree,Iceland,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1996,Chinese,Associate degree,Shanghai,Yes,Not sure,4,5,4,3,5,5,5,5,3,3,3,3,5,3,3,2,2,2,2,1,1,4,1,2,2,No,,No,,????,??,4,4,5,3,3,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,4,3,3,3,3,3,3,2,3,2,2,3,2,pua?????????????????????????????????pua???? ????????????????????????????????????????????????????pua?,90s,mainland first tier
+Agree and Continue,Female,1998,Chinese,Bachelor's degree,Shenyang,Yes,Not sure,2,4,2,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,5,5,4,5,5,Yes,9?10?12?16?17?18?19?23?24?25,No,,???????,???,4,4,4,3,4,4,5,2,3,2,3,2,1,1,4,2,5,4,4,4,4,3,3,5,4,4,5,1,2,3,1,2,2,2,1,1,2,1,1,1,1,,90s,mainland other
+Agree and Continue,Female,2002,Chinese,Bachelor's degree,Harbin,Yes,Yes,3,3,3,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Yes,3?4?5?9?10?12?13?14?15?16?17?18?19?20?21?22?23?24?25,No,,????,???,5,5,5,5,5,5,5,5,5,5,5,3,3,5,5,5,5,5,5,5,5,5,5,5,3,5,5,3,5,1,1,1,1,3,3,1,1,1,1,1,1,?????? ???? ??????,00s,mainland other
+Agree and Continue,Female,1994,Chinese,Master's degree,Beijing,Yes,Yes,1,3,3,5,5,5,4,5,5,4,5,5,3,4,5,4,5,5,5,5,5,4,3,2,5,No,,No,,????,??,5,5,5,4,5,5,5,5,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1995,Chinese,Bachelor's degree,Chengdu,Yes,Yes,3,3,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,No,,No,,?????????,,5,5,5,5,5,5,5,5,5,5,3,4,2,2,2,2,4,3,2,2,3,5,5,5,4,5,3,3,5,1,2,2,2,1,1,3,3,1,1,1,1,???????????????,90s,mainland other
+Agree and Continue,Female,1997,Chinese,Bachelor's degree,Jinan,Yes,Yes,1,5,4,5,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,3,5,5,5,5,5,No,,No,,??,,5,5,5,5,5,5,5,5,5,5,2,1,3,1,1,3,5,5,5,5,5,5,5,5,5,5,2,1,4,1,2,1,1,1,3,1,2,1,1,1,1,,90s,mainland other
+Agree and Continue,Female,1993,Chinese,Master's degree,Beijing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,2003,Chinese,Bachelor's degree,Liaoning,Yes,No ,5,5,4,4,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,No,,No,,??,,3,4,4,5,3,4,4,4,3,5,3,2,3,4,4,3,4,4,4,4,4,4,4,4,3,4,5,2,3,3,2,2,2,2,2,3,2,1,1,1,1,?,00s,mainland other
+Agree and Continue,Female,1996,Chinese,Bachelor's degree,Beijing,Yes,Yes,1,4,4,5,5,5,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,No,,No,,?????,,2,1,1,1,1,1,1,1,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1990,Chinese,Master's degree,"Houston, America",Yes,Not sure,1,1,1,5,3,1,1,4,5,5,1,3,1,5,5,5,5,5,5,3,5,1,5,4,4,Yes,14?17?18?19?21,No,,???? ????,????????,3,4,4,4,4,4,4,4,1,4,4,4,4,5,4,3,3,5,5,4,5,5,5,4,4,5,4,2,2,2,2,2,2,4,2,2,1,2,2,3,1,????????????????PUA,90s,overseas
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1992,Chinese,Master's degree,Beijing,Yes,Not sure,5,5,5,1,5,5,5,5,5,5,5,5,5,5,5,5,5,3,5,3,5,5,5,5,5,No,,No,,????,,5,5,5,5,5,5,5,5,5,5,5,3,2,2,3,3,5,5,5,4,4,5,5,5,3,5,4,3,5,3,3,1,1,1,1,1,3,1,1,1,1,?,90s,mainland first tier
+Agree and Continue,Female,1992,Chinese,Master's degree,Beijing,Yes,Yes,1,3,3,5,5,5,5,5,5,5,3,3,5,5,5,5,5,5,5,3,5,3,5,5,5,Yes,16,No,,????,??????,5,5,5,5,5,5,5,5,5,5,5,4,3,4,4,3,5,5,5,5,5,5,5,5,4,5,5,2,4,3,3,3,3,2,3,2,3,1,1,1,1,??,90s,mainland first tier
+Agree and Continue,Female,1996,Chinese,Bachelor's degree,Changchun,Yes,No ,1,1,1,2,3,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,No,,No,,????,??,4,4,3,3,2,3,3,4,2,4,1,4,3,2,1,2,4,4,3,3,3,3,3,4,2,4,2,1,4,3,1,1,1,1,1,1,1,1,1,1,5,?,90s,mainland other
+Agree and Continue,Female,1999,Chinese,Bachelor's degree,Shenzhen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1959,Chinese,Bachelor's degree,Shenyang,No,Not sure,3,4,,3,,3,5,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1993,Chinese,Bachelor's degree,Beijing,Yes,Yes,4,4,5,5,5,5,5,5,5,5,5,5,5,5,5,4,5,5,5,4,5,5,5,5,5,Yes,10?14?15?16?17?21?23?24?25,Yes,??????????????????,????,??????????????????????????????,3,3,2,2,2,2,2,3,3,3,1,2,1,1,1,1,5,4,4,1,5,5,3,3,3,5,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,??????????????????????PUA?,90s,mainland first tier
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1991,Chinese,Bachelor's degree,Beijing,Yes,Yes,4,4,4,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Yes,9,Yes,???????????????,????,????????pua??npd???,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,3,3,4,4,2,4,4,3,3,3,2,1,,90s,mainland first tier
+Agree and Continue,Female,1993,Chinese,Bachelor's degree,Fuzhou,Yes,Not sure,1,1,5,3,1,1,1,1,1,3,1,1,1,3,1,4,4,4,1,1,4,1,1,5,5,Yes,24,No,,????,??,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,2000,Chinese,Bachelor's degree,Beijing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1997,Chinese,Bachelor's degree,Chongqing,Yes,Yes,1,2,2,4,5,4,5,5,4,3,4,5,3,4,4,5,4,4,5,3,5,4,3,5,5,No,,No,,??????????????????,??,4,4,4,4,4,4,4,4,3,4,4,5,4,4,4,4,5,5,5,5,5,4,4,4,4,5,5,3,3,3,3,3,3,4,4,3,3,3,3,2,1,?????,90s,mainland other
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1989,Chinese,Master's degree,Beijing,Yes,Not sure,3,3,4,4,3,3,3,4,3,4,4,4,3,4,4,4,4,4,4,2,3,3,4,4,4,No,,No,,????,,4,4,5,4,5,5,5,5,5,4,4,4,2,3,3,3,4,4,5,5,5,5,5,4,2,5,4,4,3,3,3,4,3,3,3,3,3,2,1,3,3,,80s,mainland first tier
+Agree and Continue,Female,1993,Chinese,Master's degree,Beijing,Yes,Yes,5,5,4,4,5,5,4,5,5,3,5,3,5,5,5,3,4,5,2,2,3,5,3,2,2,Yes,18,No,,?????,????????????????????????????????????????????,3,5,5,5,4,4,3,4,5,3,4,3,3,3,5,4,5,5,4,4,5,4,4,5,3,5,5,4,2,1,3,1,1,5,2,1,3,1,1,2,1,??,90s,mainland first tier
+Agree and Continue,Female,1996,Chinese,Master's degree,Xian,Yes,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Yes,25,Yes,,??,?????????,5,5,5,5,5,5,5,5,5,5,2,1,1,1,3,1,5,4,5,3,5,5,3,5,1,5,2,3,5,1,1,1,1,1,1,1,1,1,1,1,1,,90s,mainland other
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,2002,Chinese,Bachelor's degree,Shenyang,Yes,No ,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,No,,No,,????,,1,1,1,1,1,1,1,1,1,1,5,5,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,5,3,3,5,3,5,2,1,1,1,?,00s,mainland other
+Agree and Continue,Female,1994,Chinese,Bachelor's degree,Beijing,Yes,No ,1,1,1,2,3,5,2,5,5,2,5,2,5,4,4,3,5,3,3,2,4,5,4,2,2,No,,No,,????,,4,4,4,4,4,4,4,4,4,4,4,3,3,3,3,4,4,5,3,3,3,3,3,4,3,4,4,2,3,2,2,2,1,3,2,2,2,2,2,2,2,,90s,mainland first tier
+Agree and Continue,Female,1990,Chinese,Associate degree,Shijiazhuang,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1992,Chinese,Master's degree,Beijing,Yes,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,No,,No,,????,,5,5,5,5,5,5,5,5,5,5,5,3,3,1,3,3,5,5,5,3,5,5,5,5,3,5,5,3,3,3,3,1,3,1,3,3,3,1,1,1,1,????????,90s,mainland first tier
+Agree and Continue,,,Chinese,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1985,Chinese,Master's degree,Beijing,Yes,Yes,1,1,1,4,3,1,1,2,1,1,1,1,1,1,1,2,1,2,2,1,1,1,3,3,1,No,,No,,???,,4,4,4,4,4,4,4,4,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1993,Chinese,Master's degree,Beijing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1994,Chinese,Master's degree,Beijing,Yes,No ,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,No,,Yes,?????????????????,??,????,5,5,5,5,5,5,5,5,5,5,4,4,2,3,4,4,5,5,5,4,5,4,4,5,5,5,4,1,2,1,2,1,1,1,1,1,2,1,1,1,1,?,90s,mainland first tier
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1991,Chinese,Master's degree,Beijing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1996,Chinese,Bachelor's degree,Qingdao,Yes,Yes,5,5,5,5,5,5,5,5,5,3,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Yes,??????????????????????????????????????????????????????????????????????????????????????????,Yes,,?????,??,5,5,5,5,5,5,5,5,5,5,1,1,1,1,1,1,4,1,4,1,5,5,5,4,4,5,1,1,4,3,1,1,1,1,1,1,1,1,1,1,1,?????????????????????????????????????,90s,mainland other
+Agree and Continue,Female,1992,Chinese,Master's degree,Beijing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agree and Continue,Female,1988,Chinese,Master's degree,Beijing,Yes,Yes,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,No,,No,,??,,5,5,5,5,5,5,4,5,1,5,4,4,3,4,4,5,4,4,4,4,4,4,3,4,3,4,5,5,4,2,1,3,1,3,5,3,4,1,1,1,1,,80s,mainland first tier
+Agree and Continue,Female,1996,Chinese,Bachelor's degree,Quanzhou,Yes,Yes,1,5,3,3,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,3,5,5,3,2,2,Yes,16/18,Yes,1.“????????????(?????)???”???????????????????????????????????????????????????????????2.“?????????????????”?“????????????????????????”??????????????????“?”??????????“??”“??”????????????????????????????????3.“???????????????”???????????????4.“????‘????’???????”???????“??????????????????(??)”?????????????????????????????????????????????????????????????????????????????5.“??????????????????”?“????????????????????”??????6.“???????????????”??????HR?...?????????????????PUA???????????????????????????????????????????????“???”?????????????????“?”???????????????????????????????????????????“???”?,?????,??????,4,4,4,3,5,5,5,5,5,5,2,4,1,2,3,2,5,5,5,4,5,5,3,3,3,5,4,2,4,2,5,4,2,3,1,1,1,1,1,1,1,???????????????,90s,mainland other
+Agree and Continue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
